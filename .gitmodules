@@ -1,6 +1,6 @@
 [submodule "distro"]
 	path = distro
-	url = https://github.com/NVIDIA/torch-distro
+	url = https://github.com/torch/distro
         branch = type-redux
 [submodule "external/libpng"]
 	path = external/libpng
